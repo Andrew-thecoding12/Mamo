@@ -17,4 +17,6 @@ And then execute the file with ./mamo.sh
 # How to use?
 
 If you launch the command like ./mamo.sh it Will display the usage of the commands
+especialy using terminal like linux-terminal/termux on android 
+but cygwin terminal can be used for this script
 
