@@ -20,9 +20,9 @@ If you launch the command like ./mamo.sh it Will display the usage of the comman
 
 And this is sort of the usage command to help if you didn't understand the commands
 
-Install {Package Name} - install A package
-Remove {Package name}  - remove A package
-Update - update the package list to upgrade
-Upgrade - upgrade the package to the newest version
-Add-repo {url} - add A repository
-rm-repo {url} - remove A repository 
+Install {Package Name}
+Remove {Package name}
+Update 
+Upgrade
+Add-repo {url} 
+rm-repo {url}
