@@ -16,7 +16,8 @@ And then execute the file with ./mamo.sh
 
 # How to use?
 
-If you launch the command like ./mamo.sh it Will display the usage of the commands
+If you launch the command like ./myprogram.sh or you rename the file it Will display the usage of the commands
 especialy using terminal like linux-terminal/termux on android 
 but cygwin terminal can be used for this script
+And id you type Bash filename.sh help it Will show the command helper
 
