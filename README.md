@@ -1,23 +1,50 @@
+
 # Mamo
 
-This is A Package manager simulation 
+This is A APT-Like Script who have some features like APT Itself 
 
-Not A real package manager like APT etc
 
-# How to install?
 
-Before using, Clone the file on this repository 
-With git or just download it
+[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
+![GitHub all releases](https://img.shields.io/github/downloads/Andrew-thecoding12/Mamo/total)
 
-And then make the file is executable with chmod x+
-mamo.sh
+## Authors
 
-And then execute the file with ./mamo.sh
+- [@Andrew-thecoding12](https://github.com/Andrew-thecoding12)
 
-# How to use?
 
-If you launch the command like ./myprogram.sh or you rename the file it Will display the usage of the commands
-especialy using terminal like linux-terminal/termux on android 
-but cygwin terminal can be used for this script
-And id you type Bash filename.sh help it Will show the command helper
+## License
+
+[GNU General-Public-Release](https://www.gnu.org/licenses/gpl-3.0.html)
+
+This License Will be able you to Change or redistribute this project from this Repository 
+## Features
+
+- Have Function Like APT
+- Lightweight Script
+- Editable Script
+- Cross platfrom Android/Linux,
+   Using Termux On Android/Terminal on linux
+
+
+## Installation
+
+WARNING! Before Running the script run this command on Termux/terminal like this
+
+chmod +x scriptname.sh
+
+If you do this you can run normaly the script like this
+
+bash scriptname.sh {agruments}
+
+    
+## Usage/Examples
+
+```
+bash scriptname.sh help : Show all script command 
+bash scriptname.sh about: showing about this project
+bash scriptname.sh install {packagename} : installing A specific packages
+Bash scriptname.sh remove {packagename} : removing A specific package
+```
+This is all the simple command on this script 
 
