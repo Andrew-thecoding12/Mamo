@@ -18,11 +18,3 @@ And then execute the file with ./mamo.sh
 
 If you launch the command like ./mamo.sh it Will display the usage of the commands
 
-And this is sort of the usage command to help if you didn't understand the commands
-
-Install {Package Name}
-Remove {Package name}
-Update 
-Upgrade
-Add-repo {url} 
-rm-repo {url}
