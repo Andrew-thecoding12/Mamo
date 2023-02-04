@@ -14,9 +14,6 @@ This is A APT-Like Script who have some features like APT Itself
 
 - [@Andrew-thecoding12](https://github.com/Andrew-thecoding12)
 
-``` If you want to contribute for this repository i Will add A pull request for it```
-
-
 ## License
 
 [GNU General-Public-Release](https://www.gnu.org/licenses/gpl-3.0.html)
